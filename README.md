@@ -19,7 +19,17 @@
 
 ## 本地预览和验收
 
-运行 `python3 -m http.server 8745 --bind 127.0.0.1 --directory public`。
+在项目目录启动预览。批量验收会同时请求多张缩略图，因此使用足够的本地连接队列：
+
+```python
+import http.server
+from functools import partial
+http.server.ThreadingHTTPServer.request_queue_size = 128
+http.server.ThreadingHTTPServer(
+    ('127.0.0.1', 8745),
+    partial(http.server.SimpleHTTPRequestHandler, directory='public'),
+).serve_forever()
+```
 
 `evidence/verify-gallery.mjs` 沿用现有 Ego 浏览器验收方式。复验前将文件中的 TaskSpace ID 和 root 改为当前会话及本地项目位置，然后运行：
 

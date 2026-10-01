@@ -1100,7 +1100,7 @@
       <stop offset="1" stop-color="#B1DBFF" stop-opacity=".12" />
     </linearGradient>
 
-    
+
     </defs><g id="tongxue-ribbon" transform="translate(45 98) scale(1.16)" stroke-linecap="round" stroke-linejoin="round">
 <g id="tx-loop" aria-label="loop ribbon face">
 <use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="#FFFFFF" />

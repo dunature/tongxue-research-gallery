@@ -1,0 +1,1556 @@
+{
+  "url": "http://127.0.0.1:8745",
+  "time": "2026-10-01T17:34:34.756Z",
+  "pages": [
+    {
+      "hash": "#01/home",
+      "src": "http://127.0.0.1:8745/images/01-home.png?v=research-1",
+      "title": "01 / 循证总目",
+      "design": "01 · 循证总目",
+      "original": "http://127.0.0.1:8745/images/01-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/01-home.png?v=research-1",
+      "size": [
+        1085,
+        1450
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#01/papers",
+      "src": "http://127.0.0.1:8745/images/01-papers.png?v=research-1",
+      "title": "01 / 循证总目",
+      "design": "01 · 循证总目",
+      "original": "http://127.0.0.1:8745/images/01-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/01-papers.png?v=research-1",
+      "size": [
+        1085,
+        1450
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#01/demos",
+      "src": "http://127.0.0.1:8745/images/01-demos.png?v=research-1",
+      "title": "01 / 循证总目",
+      "design": "01 · 循证总目",
+      "original": "http://127.0.0.1:8745/images/01-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/01-demos.png?v=research-1",
+      "size": [
+        1085,
+        1449
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#01/service",
+      "src": "http://127.0.0.1:8745/images/01-service.png?v=research-1",
+      "title": "01 / 循证总目",
+      "design": "01 · 循证总目",
+      "original": "http://127.0.0.1:8745/images/01-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/01-service.png?v=research-1",
+      "size": [
+        1085,
+        1450
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#02/home",
+      "src": "http://127.0.0.1:8745/images/02-home.png?v=research-1",
+      "title": "02 / 研究阶序",
+      "design": "02 · 研究阶序",
+      "original": "http://127.0.0.1:8745/images/02-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/02-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#02/papers",
+      "src": "http://127.0.0.1:8745/images/02-papers.png?v=research-1",
+      "title": "02 / 研究阶序",
+      "design": "02 · 研究阶序",
+      "original": "http://127.0.0.1:8745/images/02-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/02-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#02/demos",
+      "src": "http://127.0.0.1:8745/images/02-demos.png?v=research-1",
+      "title": "02 / 研究阶序",
+      "design": "02 · 研究阶序",
+      "original": "http://127.0.0.1:8745/images/02-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/02-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#02/service",
+      "src": "http://127.0.0.1:8745/images/02-service.png?v=research-1",
+      "title": "02 / 研究阶序",
+      "design": "02 · 研究阶序",
+      "original": "http://127.0.0.1:8745/images/02-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/02-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#03/home",
+      "src": "http://127.0.0.1:8745/images/03-home.png?v=research-1",
+      "title": "03 / 学术双栏",
+      "design": "03 · 学术双栏",
+      "original": "http://127.0.0.1:8745/images/03-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/03-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#03/papers",
+      "src": "http://127.0.0.1:8745/images/03-papers.png?v=research-1",
+      "title": "03 / 学术双栏",
+      "design": "03 · 学术双栏",
+      "original": "http://127.0.0.1:8745/images/03-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/03-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#03/demos",
+      "src": "http://127.0.0.1:8745/images/03-demos.png?v=research-1",
+      "title": "03 / 学术双栏",
+      "design": "03 · 学术双栏",
+      "original": "http://127.0.0.1:8745/images/03-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/03-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#03/service",
+      "src": "http://127.0.0.1:8745/images/03-service.png?v=research-1",
+      "title": "03 / 学术双栏",
+      "design": "03 · 学术双栏",
+      "original": "http://127.0.0.1:8745/images/03-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/03-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#04/home",
+      "src": "http://127.0.0.1:8745/images/04-home.png?v=research-1",
+      "title": "04 / 三联透视",
+      "design": "04 · 三联透视",
+      "original": "http://127.0.0.1:8745/images/04-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/04-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#04/papers",
+      "src": "http://127.0.0.1:8745/images/04-papers.png?v=research-1",
+      "title": "04 / 三联透视",
+      "design": "04 · 三联透视",
+      "original": "http://127.0.0.1:8745/images/04-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/04-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#04/demos",
+      "src": "http://127.0.0.1:8745/images/04-demos.png?v=research-1",
+      "title": "04 / 三联透视",
+      "design": "04 · 三联透视",
+      "original": "http://127.0.0.1:8745/images/04-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/04-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#04/service",
+      "src": "http://127.0.0.1:8745/images/04-service.png?v=research-1",
+      "title": "04 / 三联透视",
+      "design": "04 · 三联透视",
+      "original": "http://127.0.0.1:8745/images/04-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/04-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#05/home",
+      "src": "http://127.0.0.1:8745/images/05-home.png?v=research-1",
+      "title": "05 / 长页章法",
+      "design": "05 · 长页章法",
+      "original": "http://127.0.0.1:8745/images/05-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/05-home.png?v=research-1",
+      "size": [
+        1024,
+        1536
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#05/papers",
+      "src": "http://127.0.0.1:8745/images/05-papers.png?v=research-1",
+      "title": "05 / 长页章法",
+      "design": "05 · 长页章法",
+      "original": "http://127.0.0.1:8745/images/05-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/05-papers.png?v=research-1",
+      "size": [
+        1086,
+        1449
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#05/demos",
+      "src": "http://127.0.0.1:8745/images/05-demos.png?v=research-1",
+      "title": "05 / 长页章法",
+      "design": "05 · 长页章法",
+      "original": "http://127.0.0.1:8745/images/05-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/05-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#05/service",
+      "src": "http://127.0.0.1:8745/images/05-service.png?v=research-1",
+      "title": "05 / 长页章法",
+      "design": "05 · 长页章法",
+      "original": "http://127.0.0.1:8745/images/05-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/05-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#06/home",
+      "src": "http://127.0.0.1:8745/images/06-home.png?v=research-1",
+      "title": "06 / 方法方阵",
+      "design": "06 · 方法方阵",
+      "original": "http://127.0.0.1:8745/images/06-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/06-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#06/papers",
+      "src": "http://127.0.0.1:8745/images/06-papers.png?v=research-1",
+      "title": "06 / 方法方阵",
+      "design": "06 · 方法方阵",
+      "original": "http://127.0.0.1:8745/images/06-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/06-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#06/demos",
+      "src": "http://127.0.0.1:8745/images/06-demos.png?v=research-1",
+      "title": "06 / 方法方阵",
+      "design": "06 · 方法方阵",
+      "original": "http://127.0.0.1:8745/images/06-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/06-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#06/service",
+      "src": "http://127.0.0.1:8745/images/06-service.png?v=research-1",
+      "title": "06 / 方法方阵",
+      "design": "06 · 方法方阵",
+      "original": "http://127.0.0.1:8745/images/06-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/06-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#07/home",
+      "src": "http://127.0.0.1:8745/images/07-home.png?v=research-1",
+      "title": "07 / 对照注释",
+      "design": "07 · 对照注释",
+      "original": "http://127.0.0.1:8745/images/07-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/07-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#07/papers",
+      "src": "http://127.0.0.1:8745/images/07-papers.png?v=research-1",
+      "title": "07 / 对照注释",
+      "design": "07 · 对照注释",
+      "original": "http://127.0.0.1:8745/images/07-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/07-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#07/demos",
+      "src": "http://127.0.0.1:8745/images/07-demos.png?v=research-1",
+      "title": "07 / 对照注释",
+      "design": "07 · 对照注释",
+      "original": "http://127.0.0.1:8745/images/07-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/07-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#07/service",
+      "src": "http://127.0.0.1:8745/images/07-service.png?v=research-1",
+      "title": "07 / 对照注释",
+      "design": "07 · 对照注释",
+      "original": "http://127.0.0.1:8745/images/07-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/07-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#08/home",
+      "src": "http://127.0.0.1:8745/images/08-home.png?v=research-1",
+      "title": "08 / 路径回廊",
+      "design": "08 · 路径回廊",
+      "original": "http://127.0.0.1:8745/images/08-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/08-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#08/papers",
+      "src": "http://127.0.0.1:8745/images/08-papers.png?v=research-1",
+      "title": "08 / 路径回廊",
+      "design": "08 · 路径回廊",
+      "original": "http://127.0.0.1:8745/images/08-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/08-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#08/demos",
+      "src": "http://127.0.0.1:8745/images/08-demos.png?v=research-1",
+      "title": "08 / 路径回廊",
+      "design": "08 · 路径回廊",
+      "original": "http://127.0.0.1:8745/images/08-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/08-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#08/service",
+      "src": "http://127.0.0.1:8745/images/08-service.png?v=research-1",
+      "title": "08 / 路径回廊",
+      "design": "08 · 路径回廊",
+      "original": "http://127.0.0.1:8745/images/08-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/08-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#09/home",
+      "src": "http://127.0.0.1:8745/images/09-home.png?v=research-1",
+      "title": "09 / 课题案卷",
+      "design": "09 · 课题案卷",
+      "original": "http://127.0.0.1:8745/images/09-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/09-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#09/papers",
+      "src": "http://127.0.0.1:8745/images/09-papers.png?v=research-1",
+      "title": "09 / 课题案卷",
+      "design": "09 · 课题案卷",
+      "original": "http://127.0.0.1:8745/images/09-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/09-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#09/demos",
+      "src": "http://127.0.0.1:8745/images/09-demos.png?v=research-1",
+      "title": "09 / 课题案卷",
+      "design": "09 · 课题案卷",
+      "original": "http://127.0.0.1:8745/images/09-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/09-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#09/service",
+      "src": "http://127.0.0.1:8745/images/09-service.png?v=research-1",
+      "title": "09 / 课题案卷",
+      "design": "09 · 课题案卷",
+      "original": "http://127.0.0.1:8745/images/09-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/09-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#10/home",
+      "src": "http://127.0.0.1:8745/images/10-home.png?v=research-1",
+      "title": "10 / 导读书签",
+      "design": "10 · 导读书签",
+      "original": "http://127.0.0.1:8745/images/10-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/10-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#10/papers",
+      "src": "http://127.0.0.1:8745/images/10-papers.png?v=research-1",
+      "title": "10 / 导读书签",
+      "design": "10 · 导读书签",
+      "original": "http://127.0.0.1:8745/images/10-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/10-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#10/demos",
+      "src": "http://127.0.0.1:8745/images/10-demos.png?v=research-1",
+      "title": "10 / 导读书签",
+      "design": "10 · 导读书签",
+      "original": "http://127.0.0.1:8745/images/10-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/10-demos.png?v=research-1",
+      "size": [
+        1080,
+        1456
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#10/service",
+      "src": "http://127.0.0.1:8745/images/10-service.png?v=research-1",
+      "title": "10 / 导读书签",
+      "design": "10 · 导读书签",
+      "original": "http://127.0.0.1:8745/images/10-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/10-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#11/home",
+      "src": "http://127.0.0.1:8745/images/11-home.png?v=research-1",
+      "title": "11 / 横卷导览",
+      "design": "11 · 横卷导览",
+      "original": "http://127.0.0.1:8745/images/11-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/11-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#11/papers",
+      "src": "http://127.0.0.1:8745/images/11-papers.png?v=research-1",
+      "title": "11 / 横卷导览",
+      "design": "11 · 横卷导览",
+      "original": "http://127.0.0.1:8745/images/11-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/11-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#11/demos",
+      "src": "http://127.0.0.1:8745/images/11-demos.png?v=research-1",
+      "title": "11 / 横卷导览",
+      "design": "11 · 横卷导览",
+      "original": "http://127.0.0.1:8745/images/11-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/11-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#11/service",
+      "src": "http://127.0.0.1:8745/images/11-service.png?v=research-1",
+      "title": "11 / 横卷导览",
+      "design": "11 · 横卷导览",
+      "original": "http://127.0.0.1:8745/images/11-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/11-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#12/home",
+      "src": "http://127.0.0.1:8745/images/12-home.png?v=research-1",
+      "title": "12 / 留白索引",
+      "design": "12 · 留白索引",
+      "original": "http://127.0.0.1:8745/images/12-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/12-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#12/papers",
+      "src": "http://127.0.0.1:8745/images/12-papers.png?v=research-1",
+      "title": "12 / 留白索引",
+      "design": "12 · 留白索引",
+      "original": "http://127.0.0.1:8745/images/12-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/12-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#12/demos",
+      "src": "http://127.0.0.1:8745/images/12-demos.png?v=research-1",
+      "title": "12 / 留白索引",
+      "design": "12 · 留白索引",
+      "original": "http://127.0.0.1:8745/images/12-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/12-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#12/service",
+      "src": "http://127.0.0.1:8745/images/12-service.png?v=research-1",
+      "title": "12 / 留白索引",
+      "design": "12 · 留白索引",
+      "original": "http://127.0.0.1:8745/images/12-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/12-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#13/home",
+      "src": "http://127.0.0.1:8745/images/13-home.png?v=research-1",
+      "title": "13 / 编目抽屉",
+      "design": "13 · 编目抽屉",
+      "original": "http://127.0.0.1:8745/images/13-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/13-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#13/papers",
+      "src": "http://127.0.0.1:8745/images/13-papers.png?v=research-1",
+      "title": "13 / 编目抽屉",
+      "design": "13 · 编目抽屉",
+      "original": "http://127.0.0.1:8745/images/13-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/13-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#13/demos",
+      "src": "http://127.0.0.1:8745/images/13-demos.png?v=research-1",
+      "title": "13 / 编目抽屉",
+      "design": "13 · 编目抽屉",
+      "original": "http://127.0.0.1:8745/images/13-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/13-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#13/service",
+      "src": "http://127.0.0.1:8745/images/13-service.png?v=research-1",
+      "title": "13 / 编目抽屉",
+      "design": "13 · 编目抽屉",
+      "original": "http://127.0.0.1:8745/images/13-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/13-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#14/home",
+      "src": "http://127.0.0.1:8745/images/14-home.png?v=research-1",
+      "title": "14 / 研究图谱",
+      "design": "14 · 研究图谱",
+      "original": "http://127.0.0.1:8745/images/14-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/14-home.png?v=research-1",
+      "size": [
+        1086,
+        1449
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#14/papers",
+      "src": "http://127.0.0.1:8745/images/14-papers.png?v=research-1",
+      "title": "14 / 研究图谱",
+      "design": "14 · 研究图谱",
+      "original": "http://127.0.0.1:8745/images/14-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/14-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#14/demos",
+      "src": "http://127.0.0.1:8745/images/14-demos.png?v=research-1",
+      "title": "14 / 研究图谱",
+      "design": "14 · 研究图谱",
+      "original": "http://127.0.0.1:8745/images/14-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/14-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#14/service",
+      "src": "http://127.0.0.1:8745/images/14-service.png?v=research-1",
+      "title": "14 / 研究图谱",
+      "design": "14 · 研究图谱",
+      "original": "http://127.0.0.1:8745/images/14-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/14-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#15/home",
+      "src": "http://127.0.0.1:8745/images/15-home.png?v=research-1",
+      "title": "15 / 学术报刊",
+      "design": "15 · 学术报刊",
+      "original": "http://127.0.0.1:8745/images/15-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/15-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#15/papers",
+      "src": "http://127.0.0.1:8745/images/15-papers.png?v=research-1",
+      "title": "15 / 学术报刊",
+      "design": "15 · 学术报刊",
+      "original": "http://127.0.0.1:8745/images/15-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/15-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#15/demos",
+      "src": "http://127.0.0.1:8745/images/15-demos.png?v=research-1",
+      "title": "15 / 学术报刊",
+      "design": "15 · 学术报刊",
+      "original": "http://127.0.0.1:8745/images/15-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/15-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#15/service",
+      "src": "http://127.0.0.1:8745/images/15-service.png?v=research-1",
+      "title": "15 / 学术报刊",
+      "design": "15 · 学术报刊",
+      "original": "http://127.0.0.1:8745/images/15-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/15-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#16/home",
+      "src": "http://127.0.0.1:8745/images/16-home.png?v=research-1",
+      "title": "16 / 双轨共研",
+      "design": "16 · 双轨共研",
+      "original": "http://127.0.0.1:8745/images/16-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/16-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#16/papers",
+      "src": "http://127.0.0.1:8745/images/16-papers.png?v=research-1",
+      "title": "16 / 双轨共研",
+      "design": "16 · 双轨共研",
+      "original": "http://127.0.0.1:8745/images/16-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/16-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#16/demos",
+      "src": "http://127.0.0.1:8745/images/16-demos.png?v=research-1",
+      "title": "16 / 双轨共研",
+      "design": "16 · 双轨共研",
+      "original": "http://127.0.0.1:8745/images/16-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/16-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#16/service",
+      "src": "http://127.0.0.1:8745/images/16-service.png?v=research-1",
+      "title": "16 / 双轨共研",
+      "design": "16 · 双轨共研",
+      "original": "http://127.0.0.1:8745/images/16-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/16-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#17/home",
+      "src": "http://127.0.0.1:8745/images/17-home.png?v=research-1",
+      "title": "17 / 章节卡册",
+      "design": "17 · 章节卡册",
+      "original": "http://127.0.0.1:8745/images/17-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/17-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#17/papers",
+      "src": "http://127.0.0.1:8745/images/17-papers.png?v=research-1",
+      "title": "17 / 章节卡册",
+      "design": "17 · 章节卡册",
+      "original": "http://127.0.0.1:8745/images/17-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/17-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#17/demos",
+      "src": "http://127.0.0.1:8745/images/17-demos.png?v=research-1",
+      "title": "17 / 章节卡册",
+      "design": "17 · 章节卡册",
+      "original": "http://127.0.0.1:8745/images/17-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/17-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#17/service",
+      "src": "http://127.0.0.1:8745/images/17-service.png?v=research-1",
+      "title": "17 / 章节卡册",
+      "design": "17 · 章节卡册",
+      "original": "http://127.0.0.1:8745/images/17-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/17-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#18/home",
+      "src": "http://127.0.0.1:8745/images/18-home.png?v=research-1",
+      "title": "18 / 坐标章序",
+      "design": "18 · 坐标章序",
+      "original": "http://127.0.0.1:8745/images/18-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/18-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#18/papers",
+      "src": "http://127.0.0.1:8745/images/18-papers.png?v=research-1",
+      "title": "18 / 坐标章序",
+      "design": "18 · 坐标章序",
+      "original": "http://127.0.0.1:8745/images/18-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/18-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#18/demos",
+      "src": "http://127.0.0.1:8745/images/18-demos.png?v=research-1",
+      "title": "18 / 坐标章序",
+      "design": "18 · 坐标章序",
+      "original": "http://127.0.0.1:8745/images/18-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/18-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#18/service",
+      "src": "http://127.0.0.1:8745/images/18-service.png?v=research-1",
+      "title": "18 / 坐标章序",
+      "design": "18 · 坐标章序",
+      "original": "http://127.0.0.1:8745/images/18-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/18-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#19/home",
+      "src": "http://127.0.0.1:8745/images/19-home.png?v=research-1",
+      "title": "19 / 证据长卷",
+      "design": "19 · 证据长卷",
+      "original": "http://127.0.0.1:8745/images/19-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/19-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#19/papers",
+      "src": "http://127.0.0.1:8745/images/19-papers.png?v=research-1",
+      "title": "19 / 证据长卷",
+      "design": "19 · 证据长卷",
+      "original": "http://127.0.0.1:8745/images/19-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/19-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#19/demos",
+      "src": "http://127.0.0.1:8745/images/19-demos.png?v=research-1",
+      "title": "19 / 证据长卷",
+      "design": "19 · 证据长卷",
+      "original": "http://127.0.0.1:8745/images/19-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/19-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#19/service",
+      "src": "http://127.0.0.1:8745/images/19-service.png?v=research-1",
+      "title": "19 / 证据长卷",
+      "design": "19 · 证据长卷",
+      "original": "http://127.0.0.1:8745/images/19-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/19-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#20/home",
+      "src": "http://127.0.0.1:8745/images/20-home.png?v=research-1",
+      "title": "20 / 书架门户",
+      "design": "20 · 书架门户",
+      "original": "http://127.0.0.1:8745/images/20-home.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/20-home.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#20/papers",
+      "src": "http://127.0.0.1:8745/images/20-papers.png?v=research-1",
+      "title": "20 / 书架门户",
+      "design": "20 · 书架门户",
+      "original": "http://127.0.0.1:8745/images/20-papers.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/20-papers.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#20/demos",
+      "src": "http://127.0.0.1:8745/images/20-demos.png?v=research-1",
+      "title": "20 / 书架门户",
+      "design": "20 · 书架门户",
+      "original": "http://127.0.0.1:8745/images/20-demos.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/20-demos.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    },
+    {
+      "hash": "#20/service",
+      "src": "http://127.0.0.1:8745/images/20-service.png?v=research-1",
+      "title": "20 / 书架门户",
+      "design": "20 · 书架门户",
+      "original": "http://127.0.0.1:8745/images/20-service.png?v=research-1",
+      "download": "http://127.0.0.1:8745/images/20-service.png?v=research-1",
+      "size": [
+        1086,
+        1448
+      ],
+      "notesVisible": true,
+      "notesBelow": true,
+      "notesSections": 13,
+      "methodTerms": true
+    }
+  ],
+  "styles": [
+    {
+      "id": "01",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "02",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "03",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "04",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "05",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "06",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "07",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "08",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "09",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "10",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "11",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "12",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "13",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "14",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "15",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "16",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "17",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "18",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "19",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    },
+    {
+      "id": "20",
+      "thumbnail": true,
+      "overview": true,
+      "tiles": 4,
+      "motion": true,
+      "sizing": true,
+      "original": true,
+      "download": true,
+      "previousNext": true
+    }
+  ],
+  "rapid": [
+    {
+      "hash": "#01/service",
+      "state": "loading",
+      "visibility": "hidden",
+      "message": "正在加载 循证总目 · 论文服务…"
+    },
+    {
+      "hash": "#01/papers",
+      "state": "loading",
+      "visibility": "hidden",
+      "message": "正在加载 循证总目 · 科研成果…"
+    },
+    {
+      "hash": "#06/papers",
+      "state": "loading",
+      "visibility": "hidden",
+      "message": "正在加载 方法方阵 · 科研成果…"
+    },
+    {
+      "hash": "#06/home",
+      "state": "loading",
+      "visibility": "hidden",
+      "message": "正在加载 方法方阵 · 首页…"
+    },
+    {
+      "hash": "#20/home",
+      "state": "loading",
+      "visibility": "hidden",
+      "message": "正在加载 书架门户 · 首页…"
+    },
+    {
+      "hash": "#20/demos",
+      "state": "loading",
+      "visibility": "hidden",
+      "message": "正在加载 书架门户 · 能力中心…"
+    }
+  ],
+  "retry": true,
+  "mobile": {
+    "width": 390,
+    "documentWidth": 390,
+    "notesVisible": true
+  },
+  "designDownload": true,
+  "navigation": true,
+  "reducedMotion": true,
+  "passed": true
+}
