@@ -1,5 +1,7 @@
 # 仝学 · 科研为先
 
+[打开新图库](https://tongxue-research-gallery.onrender.com/) · [完整中文 DESIGN.md](https://tongxue-research-gallery.onrender.com/DESIGN.md) · [验收记录](ACCEPTANCE.md)
+
 20 套方案 × 首页、科研成果、能力中心、论文服务，共 80 张原生设计图。
 
 本轮根据用户反馈，以清晰侧栏、文字优先和大编号为核心，融合期刊阅读、自然采光与学术展陈。三大视角为临床问题、科研方法、成果交付；科研方法含生信分析、医学统计、人工智能和预测建模，按课题选择。

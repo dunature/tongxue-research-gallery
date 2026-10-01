@@ -2,11 +2,13 @@
   {
     "url": "https://tongxue-design-gallery.onrender.com/",
     "sha256": "7e01fe86246e0985b7098a61f6538bb3424195a43439ff40de7e7056ee5c9e9a",
-    "unchangedFromExistingLocal": true
+    "unchangedFromExistingLocal": true,
+    "unchangedAfterPublish": true
   },
   {
     "url": "https://tongxue-paper-gallery.onrender.com/",
     "sha256": "8c637739711cb3b8bc1402f2b6f74674e54d075da979021af82369936896aa01",
-    "unchangedFromExistingLocal": true
+    "unchangedFromExistingLocal": true,
+    "unchangedAfterPublish": true
   }
 ]

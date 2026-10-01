@@ -23,7 +23,18 @@
 
 `evidence/local-audit.json` 为全量浏览器检查结果；`evidence/verify-gallery.mjs` 为可复用脚本。`asset-manifest.json` 包含原图映射、尺寸与 SHA-256。手机和桌面截图保存在本地 `evidence/`。
 
-线上部署与字节核验记录待本次发布完成后补入。
+## 线上已验证
+
+- 新网址：https://tongxue-research-gallery.onrender.com/。
+- Render 部署 `dep-dav9mjaa3nsc73fdmsfg` 已为 live；部署源码提交 `340753c27f6229d9bdee4cdacb4dd725a6e3bb35`。
+- 01、06、11、20 四套共 16 页在线上再次实际点击，所有对应关系与各类控件、快速切换、失败重试、手机布局、下载及减少动态偏好通过。
+- 全部 80 张线上 PNG 的 SHA-256 与生成原文件一致；浏览器图片 Accept 请求仍返回 `image/png`，并含 `no-transform`。
+- 线上 HTML、JS、CSS、DESIGN.md、品牌图及 20 张导航缩略图，共 25 个文件与本地逐字节一致。
+- 两个已有图库发布前后首页 SHA-256 不变，均仍与各自原项目文件一致。
+
+证据：`evidence/public-audit.json`、`public-assets.json`、`public-source-integrity.json`、`existing-galleries.json`、`render-headers.json`、`publication.json`。线上浏览器复查范围为 16 页，全量点击范围为本地 80 页；线上图片字节核验范围为全部 80 张。
+
+后续提交仅补充仓库内的验收材料与交付链接，不改变已部署的 public 文件。
 
 ## 交付边界
 
