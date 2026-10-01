@@ -1,0 +1,1172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" role="img" aria-labelledby="tx-title tx-desc">
+<title id="tx-title">仝学 · TONGXUE — 立体环带图标</title>
+<desc id="tx-desc">Native vector reconstruction of the approved TONGXUE ribbon. Transparent background and openings. Four editable Bezier surfaces, with layered radial gradients for cyan, blue and lavender shading. No embedded images, fonts, filters or external resources.</desc>
+<defs>
+<path id="tx-loop-surface" d="M 596 430  C 614 465 646 516 631 548  C 609 601 504 579 405 513  L 393 520  C 443 582 512 641 579 663  C 637 682 682 670 716 638  C 747 608 765 558 762 514  C 760 473 746 444 715 427  C 682 409 640 416 596 430 Z" />
+<radialGradient id="tx-loop-g0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(388.00000 0.00000 -0.00000 360.00000 640.00000 445.00000)">
+<stop offset="0.00" stop-color="#C6FFFF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#C6FFFF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#C6FFFF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#C6FFFF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#C6FFFF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#C6FFFF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#C6FFFF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#C6FFFF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#C6FFFF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#C6FFFF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#C6FFFF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#C6FFFF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#C6FFFF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#C6FFFF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#C6FFFF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#C6FFFF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#C6FFFF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#C6FFFF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#C6FFFF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#C6FFFF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#C6FFFF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-loop-g1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(388.00000 0.00000 -0.00000 360.00000 750.00000 445.00000)">
+<stop offset="0.00" stop-color="#FFFFFF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#FFFFFF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#FFFFFF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#FFFFFF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#FFFFFF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#FFFFFF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#FFFFFF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#FFFFFF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#FFFFFF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#FFFFFF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#FFFFFF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#FFFFFF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#FFFFFF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#FFFFFF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#FFFFFF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#FFFFFF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#FFFFFF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#FFFFFF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#FFFFFF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-loop-g2" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(388.00000 0.00000 -0.00000 360.00000 420.00000 540.00000)">
+<stop offset="0.00" stop-color="#0000B3" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#0000B3" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#0000B3" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#0000B3" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#0000B3" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#0000B3" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#0000B3" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#0000B3" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#0000B3" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#0000B3" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#0000B3" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#0000B3" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#0000B3" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#0000B3" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#0000B3" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#0000B3" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#0000B3" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#0000B3" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#0000B3" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#0000B3" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#0000B3" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-loop-g3" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(388.00000 0.00000 -0.00000 360.00000 530.00000 540.00000)">
+<stop offset="0.00" stop-color="#0000FF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#0000FF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#0000FF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#0000FF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#0000FF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#0000FF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#0000FF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#0000FF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#0000FF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#0000FF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#0000FF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#0000FF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#0000FF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#0000FF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#0000FF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#0000FF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#0000FF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#0000FF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#0000FF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#0000FF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#0000FF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-loop-g4" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(388.00000 0.00000 -0.00000 360.00000 640.00000 540.00000)">
+<stop offset="0.00" stop-color="#155EE5" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#155EE5" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#155EE5" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#155EE5" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#155EE5" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#155EE5" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#155EE5" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#155EE5" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#155EE5" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#155EE5" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#155EE5" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#155EE5" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#155EE5" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#155EE5" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#155EE5" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#155EE5" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#155EE5" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#155EE5" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#155EE5" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#155EE5" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#155EE5" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-loop-g5" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(388.00000 0.00000 -0.00000 360.00000 750.00000 540.00000)">
+<stop offset="0.00" stop-color="#0E48BB" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#0E48BB" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#0E48BB" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#0E48BB" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#0E48BB" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#0E48BB" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#0E48BB" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#0E48BB" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#0E48BB" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#0E48BB" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#0E48BB" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#0E48BB" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#0E48BB" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#0E48BB" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#0E48BB" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#0E48BB" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#0E48BB" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#0E48BB" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#0E48BB" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#0E48BB" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#0E48BB" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-loop-g6" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(388.00000 0.00000 -0.00000 360.00000 420.00000 640.00000)">
+<stop offset="0.00" stop-color="#000034" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#000034" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#000034" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#000034" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#000034" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#000034" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#000034" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#000034" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#000034" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#000034" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#000034" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#000034" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#000034" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#000034" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#000034" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#000034" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#000034" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#000034" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#000034" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#000034" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#000034" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-loop-g7" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(388.00000 0.00000 -0.00000 360.00000 530.00000 640.00000)">
+<stop offset="0.00" stop-color="#B1B5FF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#B1B5FF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#B1B5FF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#B1B5FF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#B1B5FF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#B1B5FF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#B1B5FF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#B1B5FF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#B1B5FF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#B1B5FF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#B1B5FF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#B1B5FF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#B1B5FF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#B1B5FF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#B1B5FF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#B1B5FF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#B1B5FF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#B1B5FF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#B1B5FF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#B1B5FF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#B1B5FF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-loop-g8" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(388.00000 0.00000 -0.00000 360.00000 640.00000 640.00000)">
+<stop offset="0.00" stop-color="#4149FA" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#4149FA" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#4149FA" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#4149FA" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#4149FA" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#4149FA" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#4149FA" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#4149FA" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#4149FA" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#4149FA" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#4149FA" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#4149FA" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#4149FA" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#4149FA" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#4149FA" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#4149FA" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#4149FA" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#4149FA" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#4149FA" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#4149FA" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#4149FA" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-loop-g9" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(388.00000 0.00000 -0.00000 360.00000 750.00000 640.00000)">
+<stop offset="0.00" stop-color="#8E8AF2" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#8E8AF2" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#8E8AF2" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#8E8AF2" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#8E8AF2" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#8E8AF2" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#8E8AF2" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#8E8AF2" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#8E8AF2" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#8E8AF2" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#8E8AF2" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#8E8AF2" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#8E8AF2" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#8E8AF2" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#8E8AF2" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#8E8AF2" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#8E8AF2" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#8E8AF2" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#8E8AF2" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#8E8AF2" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#8E8AF2" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-loop-g10" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(118.83217 16.70077 -55.66924 396.10723 752.00000 540.00000)">
+<stop offset="0.00" stop-color="#89A5FF" stop-opacity="0.86000" />
+<stop offset="0.05" stop-color="#89A5FF" stop-opacity="0.84297" />
+<stop offset="0.10" stop-color="#89A5FF" stop-opacity="0.79388" />
+<stop offset="0.15" stop-color="#89A5FF" stop-opacity="0.71833" />
+<stop offset="0.20" stop-color="#89A5FF" stop-opacity="0.62449" />
+<stop offset="0.25" stop-color="#89A5FF" stop-opacity="0.52162" />
+<stop offset="0.30" stop-color="#89A5FF" stop-opacity="0.41861" />
+<stop offset="0.35" stop-color="#89A5FF" stop-opacity="0.32277" />
+<stop offset="0.40" stop-color="#89A5FF" stop-opacity="0.23911" />
+<stop offset="0.45" stop-color="#89A5FF" stop-opacity="0.17019" />
+<stop offset="0.50" stop-color="#89A5FF" stop-opacity="0.11639" />
+<stop offset="0.55" stop-color="#89A5FF" stop-opacity="0.07647" />
+<stop offset="0.60" stop-color="#89A5FF" stop-opacity="0.04828" />
+<stop offset="0.65" stop-color="#89A5FF" stop-opacity="0.02928" />
+<stop offset="0.70" stop-color="#89A5FF" stop-opacity="0.01706" />
+<stop offset="0.75" stop-color="#89A5FF" stop-opacity="0.00955" />
+<stop offset="0.80" stop-color="#89A5FF" stop-opacity="0.00514" />
+<stop offset="0.85" stop-color="#89A5FF" stop-opacity="0.00266" />
+<stop offset="0.90" stop-color="#89A5FF" stop-opacity="0.00132" />
+<stop offset="0.95" stop-color="#89A5FF" stop-opacity="0.00063" />
+<stop offset="1.00" stop-color="#89A5FF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-loop-g11" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(420.00000 0.00000 -0.00000 108.00000 633.00000 673.00000)">
+<stop offset="0.00" stop-color="#D7C3FF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#D7C3FF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#D7C3FF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#D7C3FF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#D7C3FF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#D7C3FF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#D7C3FF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#D7C3FF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#D7C3FF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#D7C3FF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#D7C3FF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#D7C3FF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#D7C3FF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#D7C3FF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#D7C3FF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#D7C3FF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#D7C3FF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#D7C3FF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#D7C3FF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#D7C3FF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#D7C3FF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-loop-g12" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(186.16844 192.78307 -69.05662 66.68720 445.00000 565.00000)">
+<stop offset="0.00" stop-color="#517CF5" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#517CF5" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#517CF5" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#517CF5" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#517CF5" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#517CF5" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#517CF5" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#517CF5" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#517CF5" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#517CF5" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#517CF5" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#517CF5" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#517CF5" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#517CF5" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#517CF5" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#517CF5" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#517CF5" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#517CF5" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#517CF5" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#517CF5" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#517CF5" stop-opacity="0.00000" />
+</radialGradient>
+<path id="tx-back-surface" d="M 434 185  C 447 173 457 164 466 158  C 489 142 508 133 522 154  C 550 199 598 286 627 347  C 595 337 562 329 525 324  C 493 271 461 226 434 185 Z" />
+<path id="tx-arch-surface" d="M 63 468  C 76 428 91 398 117 347  C 155 271 197 205 237 137  C 260 98 276 69 310 51  C 341 35 377 35 409 44  C 462 57 492 96 522 154  C 508 133 489 142 466 158  C 416 191 351 276 327 344  C 226 373 145 415 77 475  C 65 485 61 480 63 468 Z" />
+<radialGradient id="tx-arch-g0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(440.00000 0.00000 -0.00000 440.00000 230.00000 60.00000)">
+<stop offset="0.00" stop-color="#0000FF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#0000FF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#0000FF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#0000FF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#0000FF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#0000FF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#0000FF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#0000FF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#0000FF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#0000FF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#0000FF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#0000FF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#0000FF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#0000FF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#0000FF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#0000FF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#0000FF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#0000FF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#0000FF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#0000FF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#0000FF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(440.00000 0.00000 -0.00000 440.00000 370.00000 60.00000)">
+<stop offset="0.00" stop-color="#0000FF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#0000FF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#0000FF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#0000FF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#0000FF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#0000FF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#0000FF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#0000FF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#0000FF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#0000FF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#0000FF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#0000FF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#0000FF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#0000FF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#0000FF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#0000FF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#0000FF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#0000FF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#0000FF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#0000FF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#0000FF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g2" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(440.00000 0.00000 -0.00000 440.00000 500.00000 60.00000)">
+<stop offset="0.00" stop-color="#0000FF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#0000FF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#0000FF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#0000FF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#0000FF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#0000FF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#0000FF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#0000FF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#0000FF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#0000FF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#0000FF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#0000FF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#0000FF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#0000FF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#0000FF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#0000FF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#0000FF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#0000FF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#0000FF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#0000FF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#0000FF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g3" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(440.00000 0.00000 -0.00000 440.00000 230.00000 190.00000)">
+<stop offset="0.00" stop-color="#33B4FF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#33B4FF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#33B4FF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#33B4FF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#33B4FF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#33B4FF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#33B4FF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#33B4FF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#33B4FF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#33B4FF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#33B4FF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#33B4FF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#33B4FF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#33B4FF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#33B4FF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#33B4FF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#33B4FF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#33B4FF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#33B4FF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#33B4FF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#33B4FF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g4" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(440.00000 0.00000 -0.00000 440.00000 370.00000 190.00000)">
+<stop offset="0.00" stop-color="#98FFFF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#98FFFF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#98FFFF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#98FFFF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#98FFFF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#98FFFF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#98FFFF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#98FFFF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#98FFFF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#98FFFF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#98FFFF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#98FFFF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#98FFFF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#98FFFF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#98FFFF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#98FFFF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#98FFFF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#98FFFF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#98FFFF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#98FFFF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#98FFFF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g5" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(440.00000 0.00000 -0.00000 440.00000 500.00000 190.00000)">
+<stop offset="0.00" stop-color="#00E1FF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#00E1FF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#00E1FF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#00E1FF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#00E1FF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#00E1FF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#00E1FF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#00E1FF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#00E1FF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#00E1FF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#00E1FF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#00E1FF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#00E1FF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#00E1FF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#00E1FF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#00E1FF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#00E1FF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#00E1FF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#00E1FF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#00E1FF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#00E1FF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g6" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(440.00000 0.00000 -0.00000 440.00000 90.00000 320.00000)">
+<stop offset="0.00" stop-color="#A077FF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#A077FF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#A077FF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#A077FF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#A077FF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#A077FF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#A077FF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#A077FF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#A077FF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#A077FF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#A077FF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#A077FF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#A077FF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#A077FF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#A077FF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#A077FF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#A077FF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#A077FF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#A077FF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#A077FF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#A077FF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g7" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(440.00000 0.00000 -0.00000 440.00000 230.00000 320.00000)">
+<stop offset="0.00" stop-color="#4351E7" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#4351E7" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#4351E7" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#4351E7" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#4351E7" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#4351E7" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#4351E7" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#4351E7" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#4351E7" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#4351E7" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#4351E7" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#4351E7" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#4351E7" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#4351E7" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#4351E7" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#4351E7" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#4351E7" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#4351E7" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#4351E7" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#4351E7" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#4351E7" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g8" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(440.00000 0.00000 -0.00000 440.00000 370.00000 320.00000)">
+<stop offset="0.00" stop-color="#1A55F7" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#1A55F7" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#1A55F7" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#1A55F7" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#1A55F7" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#1A55F7" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#1A55F7" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#1A55F7" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#1A55F7" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#1A55F7" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#1A55F7" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#1A55F7" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#1A55F7" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#1A55F7" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#1A55F7" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#1A55F7" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#1A55F7" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#1A55F7" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#1A55F7" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#1A55F7" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#1A55F7" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g9" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(440.00000 0.00000 -0.00000 440.00000 500.00000 320.00000)">
+<stop offset="0.00" stop-color="#C1FFFF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#C1FFFF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#C1FFFF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#C1FFFF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#C1FFFF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#C1FFFF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#C1FFFF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#C1FFFF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#C1FFFF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#C1FFFF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#C1FFFF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#C1FFFF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#C1FFFF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#C1FFFF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#C1FFFF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#C1FFFF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#C1FFFF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#C1FFFF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#C1FFFF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#C1FFFF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#C1FFFF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g10" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(440.00000 0.00000 -0.00000 440.00000 90.00000 455.00000)">
+<stop offset="0.00" stop-color="#254DE3" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#254DE3" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#254DE3" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#254DE3" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#254DE3" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#254DE3" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#254DE3" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#254DE3" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#254DE3" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#254DE3" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#254DE3" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#254DE3" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#254DE3" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#254DE3" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#254DE3" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#254DE3" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#254DE3" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#254DE3" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#254DE3" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#254DE3" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#254DE3" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g11" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(271.89234 126.78548 -67.61892 145.00925 425.00000 66.00000)">
+<stop offset="0.00" stop-color="#69B6FA" stop-opacity="0.90000" />
+<stop offset="0.05" stop-color="#69B6FA" stop-opacity="0.88218" />
+<stop offset="0.10" stop-color="#69B6FA" stop-opacity="0.83080" />
+<stop offset="0.15" stop-color="#69B6FA" stop-opacity="0.75174" />
+<stop offset="0.20" stop-color="#69B6FA" stop-opacity="0.65353" />
+<stop offset="0.25" stop-color="#69B6FA" stop-opacity="0.54588" />
+<stop offset="0.30" stop-color="#69B6FA" stop-opacity="0.43808" />
+<stop offset="0.35" stop-color="#69B6FA" stop-opacity="0.33778" />
+<stop offset="0.40" stop-color="#69B6FA" stop-opacity="0.25023" />
+<stop offset="0.45" stop-color="#69B6FA" stop-opacity="0.17811" />
+<stop offset="0.50" stop-color="#69B6FA" stop-opacity="0.12180" />
+<stop offset="0.55" stop-color="#69B6FA" stop-opacity="0.08003" />
+<stop offset="0.60" stop-color="#69B6FA" stop-opacity="0.05052" />
+<stop offset="0.65" stop-color="#69B6FA" stop-opacity="0.03064" />
+<stop offset="0.70" stop-color="#69B6FA" stop-opacity="0.01786" />
+<stop offset="0.75" stop-color="#69B6FA" stop-opacity="0.01000" />
+<stop offset="0.80" stop-color="#69B6FA" stop-opacity="0.00538" />
+<stop offset="0.85" stop-color="#69B6FA" stop-opacity="0.00278" />
+<stop offset="0.90" stop-color="#69B6FA" stop-opacity="0.00138" />
+<stop offset="0.95" stop-color="#69B6FA" stop-opacity="0.00066" />
+<stop offset="1.00" stop-color="#69B6FA" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g12" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(155.88457 -90.00000 144.00000 249.41532 470.00000 112.00000)">
+<stop offset="0.00" stop-color="#FFFFFD" stop-opacity="0.92000" />
+<stop offset="0.05" stop-color="#FFFFFD" stop-opacity="0.90178" />
+<stop offset="0.10" stop-color="#FFFFFD" stop-opacity="0.84927" />
+<stop offset="0.15" stop-color="#FFFFFD" stop-opacity="0.76845" />
+<stop offset="0.20" stop-color="#FFFFFD" stop-opacity="0.66806" />
+<stop offset="0.25" stop-color="#FFFFFD" stop-opacity="0.55801" />
+<stop offset="0.30" stop-color="#FFFFFD" stop-opacity="0.44781" />
+<stop offset="0.35" stop-color="#FFFFFD" stop-opacity="0.34529" />
+<stop offset="0.40" stop-color="#FFFFFD" stop-opacity="0.25579" />
+<stop offset="0.45" stop-color="#FFFFFD" stop-opacity="0.18207" />
+<stop offset="0.50" stop-color="#FFFFFD" stop-opacity="0.12451" />
+<stop offset="0.55" stop-color="#FFFFFD" stop-opacity="0.08181" />
+<stop offset="0.60" stop-color="#FFFFFD" stop-opacity="0.05164" />
+<stop offset="0.65" stop-color="#FFFFFD" stop-opacity="0.03132" />
+<stop offset="0.70" stop-color="#FFFFFD" stop-opacity="0.01825" />
+<stop offset="0.75" stop-color="#FFFFFD" stop-opacity="0.01022" />
+<stop offset="0.80" stop-color="#FFFFFD" stop-opacity="0.00550" />
+<stop offset="0.85" stop-color="#FFFFFD" stop-opacity="0.00284" />
+<stop offset="0.90" stop-color="#FFFFFD" stop-opacity="0.00141" />
+<stop offset="0.95" stop-color="#FFFFFD" stop-opacity="0.00067" />
+<stop offset="1.00" stop-color="#FFFFFD" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g13" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(400.00000 0.00000 -0.00000 160.00000 344.00000 46.00000)">
+<stop offset="0.00" stop-color="#A5F2FC" stop-opacity="0.85000" />
+<stop offset="0.05" stop-color="#A5F2FC" stop-opacity="0.83317" />
+<stop offset="0.10" stop-color="#A5F2FC" stop-opacity="0.78465" />
+<stop offset="0.15" stop-color="#A5F2FC" stop-opacity="0.70998" />
+<stop offset="0.20" stop-color="#A5F2FC" stop-opacity="0.61723" />
+<stop offset="0.25" stop-color="#A5F2FC" stop-opacity="0.51555" />
+<stop offset="0.30" stop-color="#A5F2FC" stop-opacity="0.41374" />
+<stop offset="0.35" stop-color="#A5F2FC" stop-opacity="0.31901" />
+<stop offset="0.40" stop-color="#A5F2FC" stop-opacity="0.23633" />
+<stop offset="0.45" stop-color="#A5F2FC" stop-opacity="0.16821" />
+<stop offset="0.50" stop-color="#A5F2FC" stop-opacity="0.11503" />
+<stop offset="0.55" stop-color="#A5F2FC" stop-opacity="0.07558" />
+<stop offset="0.60" stop-color="#A5F2FC" stop-opacity="0.04771" />
+<stop offset="0.65" stop-color="#A5F2FC" stop-opacity="0.02894" />
+<stop offset="0.70" stop-color="#A5F2FC" stop-opacity="0.01686" />
+<stop offset="0.75" stop-color="#A5F2FC" stop-opacity="0.00944" />
+<stop offset="0.80" stop-color="#A5F2FC" stop-opacity="0.00508" />
+<stop offset="0.85" stop-color="#A5F2FC" stop-opacity="0.00263" />
+<stop offset="0.90" stop-color="#A5F2FC" stop-opacity="0.00130" />
+<stop offset="0.95" stop-color="#A5F2FC" stop-opacity="0.00062" />
+<stop offset="1.00" stop-color="#A5F2FC" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-arch-g14" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(80.39200 35.79282 -195.23359 438.50182 69.00000 439.00000)">
+<stop offset="0.00" stop-color="#82A7FF" stop-opacity="0.85000" />
+<stop offset="0.05" stop-color="#82A7FF" stop-opacity="0.83317" />
+<stop offset="0.10" stop-color="#82A7FF" stop-opacity="0.78465" />
+<stop offset="0.15" stop-color="#82A7FF" stop-opacity="0.70998" />
+<stop offset="0.20" stop-color="#82A7FF" stop-opacity="0.61723" />
+<stop offset="0.25" stop-color="#82A7FF" stop-opacity="0.51555" />
+<stop offset="0.30" stop-color="#82A7FF" stop-opacity="0.41374" />
+<stop offset="0.35" stop-color="#82A7FF" stop-opacity="0.31901" />
+<stop offset="0.40" stop-color="#82A7FF" stop-opacity="0.23633" />
+<stop offset="0.45" stop-color="#82A7FF" stop-opacity="0.16821" />
+<stop offset="0.50" stop-color="#82A7FF" stop-opacity="0.11503" />
+<stop offset="0.55" stop-color="#82A7FF" stop-opacity="0.07558" />
+<stop offset="0.60" stop-color="#82A7FF" stop-opacity="0.04771" />
+<stop offset="0.65" stop-color="#82A7FF" stop-opacity="0.02894" />
+<stop offset="0.70" stop-color="#82A7FF" stop-opacity="0.01686" />
+<stop offset="0.75" stop-color="#82A7FF" stop-opacity="0.00944" />
+<stop offset="0.80" stop-color="#82A7FF" stop-opacity="0.00508" />
+<stop offset="0.85" stop-color="#82A7FF" stop-opacity="0.00263" />
+<stop offset="0.90" stop-color="#82A7FF" stop-opacity="0.00130" />
+<stop offset="0.95" stop-color="#82A7FF" stop-opacity="0.00062" />
+<stop offset="1.00" stop-color="#82A7FF" stop-opacity="0.00000" />
+</radialGradient>
+<path id="tx-front-surface" d="M 77 475  C 143 411 239 367 329 343  C 416 319 498 317 565 328  C 647 341 709 378 741 432  C 754 454 760 484 762 514  C 759 468 742 439 715 427  C 663 405 608 425 555 446  C 481 475 418 508 344 553  C 262 602 207 637 157 640  C 109 643 73 627 55 593  C 33 555 41 516 63 468  C 61 480 65 485 77 475 Z" />
+<radialGradient id="tx-front-g0" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 320.00000 330.00000)">
+<stop offset="0.00" stop-color="#CFFFFF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#CFFFFF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#CFFFFF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#CFFFFF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#CFFFFF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#CFFFFF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#CFFFFF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#CFFFFF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#CFFFFF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#CFFFFF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#CFFFFF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#CFFFFF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#CFFFFF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#CFFFFF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#CFFFFF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#CFFFFF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#CFFFFF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#CFFFFF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#CFFFFF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#CFFFFF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#CFFFFF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g1" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 460.00000 330.00000)">
+<stop offset="0.00" stop-color="#E1FFFF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#E1FFFF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#E1FFFF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#E1FFFF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#E1FFFF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#E1FFFF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#E1FFFF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#E1FFFF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#E1FFFF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#E1FFFF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#E1FFFF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#E1FFFF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#E1FFFF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#E1FFFF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#E1FFFF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#E1FFFF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#E1FFFF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#E1FFFF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#E1FFFF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#E1FFFF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#E1FFFF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g2" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 600.00000 330.00000)">
+<stop offset="0.00" stop-color="#FFFFFE" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#FFFFFE" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#FFFFFE" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#FFFFFE" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#FFFFFE" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#FFFFFE" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#FFFFFE" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#FFFFFE" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#FFFFFE" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#FFFFFE" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#FFFFFE" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#FFFFFE" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#FFFFFE" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#FFFFFE" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#FFFFFE" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#FFFFFE" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#FFFFFE" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#FFFFFE" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#FFFFFE" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#FFFFFE" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#FFFFFE" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g3" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 40.00000 430.00000)">
+<stop offset="0.00" stop-color="#FFFFFF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#FFFFFF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#FFFFFF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#FFFFFF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#FFFFFF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#FFFFFF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#FFFFFF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#FFFFFF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#FFFFFF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#FFFFFF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#FFFFFF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#FFFFFF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#FFFFFF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#FFFFFF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#FFFFFF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#FFFFFF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#FFFFFF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#FFFFFF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#FFFFFF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g4" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 180.00000 430.00000)">
+<stop offset="0.00" stop-color="#FFFFFF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#FFFFFF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#FFFFFF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#FFFFFF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#FFFFFF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#FFFFFF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#FFFFFF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#FFFFFF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#FFFFFF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#FFFFFF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#FFFFFF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#FFFFFF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#FFFFFF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#FFFFFF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#FFFFFF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#FFFFFF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#FFFFFF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#FFFFFF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#FFFFFF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g5" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 320.00000 430.00000)">
+<stop offset="0.00" stop-color="#0037F7" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#0037F7" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#0037F7" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#0037F7" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#0037F7" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#0037F7" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#0037F7" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#0037F7" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#0037F7" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#0037F7" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#0037F7" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#0037F7" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#0037F7" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#0037F7" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#0037F7" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#0037F7" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#0037F7" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#0037F7" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#0037F7" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#0037F7" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#0037F7" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g6" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 460.00000 430.00000)">
+<stop offset="0.00" stop-color="#45B8F7" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#45B8F7" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#45B8F7" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#45B8F7" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#45B8F7" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#45B8F7" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#45B8F7" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#45B8F7" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#45B8F7" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#45B8F7" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#45B8F7" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#45B8F7" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#45B8F7" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#45B8F7" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#45B8F7" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#45B8F7" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#45B8F7" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#45B8F7" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#45B8F7" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#45B8F7" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#45B8F7" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g7" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 600.00000 430.00000)">
+<stop offset="0.00" stop-color="#C2ECFF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#C2ECFF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#C2ECFF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#C2ECFF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#C2ECFF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#C2ECFF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#C2ECFF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#C2ECFF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#C2ECFF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#C2ECFF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#C2ECFF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#C2ECFF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#C2ECFF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#C2ECFF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#C2ECFF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#C2ECFF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#C2ECFF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#C2ECFF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#C2ECFF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#C2ECFF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#C2ECFF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g8" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 740.00000 430.00000)">
+<stop offset="0.00" stop-color="#FFFFFD" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#FFFFFD" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#FFFFFD" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#FFFFFD" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#FFFFFD" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#FFFFFD" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#FFFFFD" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#FFFFFD" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#FFFFFD" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#FFFFFD" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#FFFFFD" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#FFFFFD" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#FFFFFD" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#FFFFFD" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#FFFFFD" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#FFFFFD" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#FFFFFD" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#FFFFFD" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#FFFFFD" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#FFFFFD" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#FFFFFD" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g9" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 40.00000 530.00000)">
+<stop offset="0.00" stop-color="#FFFFFF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#FFFFFF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#FFFFFF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#FFFFFF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#FFFFFF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#FFFFFF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#FFFFFF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#FFFFFF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#FFFFFF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#FFFFFF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#FFFFFF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#FFFFFF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#FFFFFF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#FFFFFF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#FFFFFF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#FFFFFF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#FFFFFF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#FFFFFF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#FFFFFF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g10" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 180.00000 530.00000)">
+<stop offset="0.00" stop-color="#2751FB" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#2751FB" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#2751FB" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#2751FB" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#2751FB" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#2751FB" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#2751FB" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#2751FB" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#2751FB" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#2751FB" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#2751FB" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#2751FB" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#2751FB" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#2751FB" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#2751FB" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#2751FB" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#2751FB" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#2751FB" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#2751FB" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#2751FB" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#2751FB" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g11" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 320.00000 530.00000)">
+<stop offset="0.00" stop-color="#5865F5" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#5865F5" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#5865F5" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#5865F5" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#5865F5" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#5865F5" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#5865F5" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#5865F5" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#5865F5" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#5865F5" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#5865F5" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#5865F5" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#5865F5" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#5865F5" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#5865F5" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#5865F5" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#5865F5" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#5865F5" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#5865F5" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#5865F5" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#5865F5" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g12" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 460.00000 530.00000)">
+<stop offset="0.00" stop-color="#4E82FF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#4E82FF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#4E82FF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#4E82FF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#4E82FF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#4E82FF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#4E82FF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#4E82FF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#4E82FF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#4E82FF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#4E82FF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#4E82FF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#4E82FF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#4E82FF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#4E82FF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#4E82FF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#4E82FF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#4E82FF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#4E82FF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#4E82FF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#4E82FF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g13" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 40.00000 640.00000)">
+<stop offset="0.00" stop-color="#EEFFF6" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#EEFFF6" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#EEFFF6" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#EEFFF6" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#EEFFF6" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#EEFFF6" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#EEFFF6" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#EEFFF6" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#EEFFF6" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#EEFFF6" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#EEFFF6" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#EEFFF6" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#EEFFF6" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#EEFFF6" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#EEFFF6" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#EEFFF6" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#EEFFF6" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#EEFFF6" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#EEFFF6" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#EEFFF6" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#EEFFF6" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g14" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(460.00000 0.00000 -0.00000 368.00000 180.00000 640.00000)">
+<stop offset="0.00" stop-color="#3A52FF" stop-opacity="0.88000" />
+<stop offset="0.05" stop-color="#3A52FF" stop-opacity="0.86257" />
+<stop offset="0.10" stop-color="#3A52FF" stop-opacity="0.81234" />
+<stop offset="0.15" stop-color="#3A52FF" stop-opacity="0.73504" />
+<stop offset="0.20" stop-color="#3A52FF" stop-opacity="0.63901" />
+<stop offset="0.25" stop-color="#3A52FF" stop-opacity="0.53375" />
+<stop offset="0.30" stop-color="#3A52FF" stop-opacity="0.42834" />
+<stop offset="0.35" stop-color="#3A52FF" stop-opacity="0.33027" />
+<stop offset="0.40" stop-color="#3A52FF" stop-opacity="0.24467" />
+<stop offset="0.45" stop-color="#3A52FF" stop-opacity="0.17415" />
+<stop offset="0.50" stop-color="#3A52FF" stop-opacity="0.11910" />
+<stop offset="0.55" stop-color="#3A52FF" stop-opacity="0.07825" />
+<stop offset="0.60" stop-color="#3A52FF" stop-opacity="0.04940" />
+<stop offset="0.65" stop-color="#3A52FF" stop-opacity="0.02996" />
+<stop offset="0.70" stop-color="#3A52FF" stop-opacity="0.01746" />
+<stop offset="0.75" stop-color="#3A52FF" stop-opacity="0.00978" />
+<stop offset="0.80" stop-color="#3A52FF" stop-opacity="0.00526" />
+<stop offset="0.85" stop-color="#3A52FF" stop-opacity="0.00272" />
+<stop offset="0.90" stop-color="#3A52FF" stop-opacity="0.00135" />
+<stop offset="0.95" stop-color="#3A52FF" stop-opacity="0.00064" />
+<stop offset="1.00" stop-color="#3A52FF" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g15" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(128.00000 0.00000 -0.00000 400.00000 49.00000 544.00000)">
+<stop offset="0.00" stop-color="#D7DCFD" stop-opacity="0.92000" />
+<stop offset="0.05" stop-color="#D7DCFD" stop-opacity="0.90178" />
+<stop offset="0.10" stop-color="#D7DCFD" stop-opacity="0.84927" />
+<stop offset="0.15" stop-color="#D7DCFD" stop-opacity="0.76845" />
+<stop offset="0.20" stop-color="#D7DCFD" stop-opacity="0.66806" />
+<stop offset="0.25" stop-color="#D7DCFD" stop-opacity="0.55801" />
+<stop offset="0.30" stop-color="#D7DCFD" stop-opacity="0.44781" />
+<stop offset="0.35" stop-color="#D7DCFD" stop-opacity="0.34529" />
+<stop offset="0.40" stop-color="#D7DCFD" stop-opacity="0.25579" />
+<stop offset="0.45" stop-color="#D7DCFD" stop-opacity="0.18207" />
+<stop offset="0.50" stop-color="#D7DCFD" stop-opacity="0.12451" />
+<stop offset="0.55" stop-color="#D7DCFD" stop-opacity="0.08181" />
+<stop offset="0.60" stop-color="#D7DCFD" stop-opacity="0.05164" />
+<stop offset="0.65" stop-color="#D7DCFD" stop-opacity="0.03132" />
+<stop offset="0.70" stop-color="#D7DCFD" stop-opacity="0.01825" />
+<stop offset="0.75" stop-color="#D7DCFD" stop-opacity="0.01022" />
+<stop offset="0.80" stop-color="#D7DCFD" stop-opacity="0.00550" />
+<stop offset="0.85" stop-color="#D7DCFD" stop-opacity="0.00284" />
+<stop offset="0.90" stop-color="#D7DCFD" stop-opacity="0.00141" />
+<stop offset="0.95" stop-color="#D7DCFD" stop-opacity="0.00067" />
+<stop offset="1.00" stop-color="#D7DCFD" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g16" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(422.55976 -89.81785 24.11776 113.46512 128.00000 632.00000)">
+<stop offset="0.00" stop-color="#CDCDFC" stop-opacity="0.90000" />
+<stop offset="0.05" stop-color="#CDCDFC" stop-opacity="0.88218" />
+<stop offset="0.10" stop-color="#CDCDFC" stop-opacity="0.83080" />
+<stop offset="0.15" stop-color="#CDCDFC" stop-opacity="0.75174" />
+<stop offset="0.20" stop-color="#CDCDFC" stop-opacity="0.65353" />
+<stop offset="0.25" stop-color="#CDCDFC" stop-opacity="0.54588" />
+<stop offset="0.30" stop-color="#CDCDFC" stop-opacity="0.43808" />
+<stop offset="0.35" stop-color="#CDCDFC" stop-opacity="0.33778" />
+<stop offset="0.40" stop-color="#CDCDFC" stop-opacity="0.25023" />
+<stop offset="0.45" stop-color="#CDCDFC" stop-opacity="0.17811" />
+<stop offset="0.50" stop-color="#CDCDFC" stop-opacity="0.12180" />
+<stop offset="0.55" stop-color="#CDCDFC" stop-opacity="0.08003" />
+<stop offset="0.60" stop-color="#CDCDFC" stop-opacity="0.05052" />
+<stop offset="0.65" stop-color="#CDCDFC" stop-opacity="0.03064" />
+<stop offset="0.70" stop-color="#CDCDFC" stop-opacity="0.01786" />
+<stop offset="0.75" stop-color="#CDCDFC" stop-opacity="0.01000" />
+<stop offset="0.80" stop-color="#CDCDFC" stop-opacity="0.00538" />
+<stop offset="0.85" stop-color="#CDCDFC" stop-opacity="0.00278" />
+<stop offset="0.90" stop-color="#CDCDFC" stop-opacity="0.00138" />
+<stop offset="0.95" stop-color="#CDCDFC" stop-opacity="0.00066" />
+<stop offset="1.00" stop-color="#CDCDFC" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g17" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(326.27080 152.14257 -55.78561 119.63263 674.00000 383.00000)">
+<stop offset="0.00" stop-color="#FFFFFD" stop-opacity="0.92000" />
+<stop offset="0.05" stop-color="#FFFFFD" stop-opacity="0.90178" />
+<stop offset="0.10" stop-color="#FFFFFD" stop-opacity="0.84927" />
+<stop offset="0.15" stop-color="#FFFFFD" stop-opacity="0.76845" />
+<stop offset="0.20" stop-color="#FFFFFD" stop-opacity="0.66806" />
+<stop offset="0.25" stop-color="#FFFFFD" stop-opacity="0.55801" />
+<stop offset="0.30" stop-color="#FFFFFD" stop-opacity="0.44781" />
+<stop offset="0.35" stop-color="#FFFFFD" stop-opacity="0.34529" />
+<stop offset="0.40" stop-color="#FFFFFD" stop-opacity="0.25579" />
+<stop offset="0.45" stop-color="#FFFFFD" stop-opacity="0.18207" />
+<stop offset="0.50" stop-color="#FFFFFD" stop-opacity="0.12451" />
+<stop offset="0.55" stop-color="#FFFFFD" stop-opacity="0.08181" />
+<stop offset="0.60" stop-color="#FFFFFD" stop-opacity="0.05164" />
+<stop offset="0.65" stop-color="#FFFFFD" stop-opacity="0.03132" />
+<stop offset="0.70" stop-color="#FFFFFD" stop-opacity="0.01825" />
+<stop offset="0.75" stop-color="#FFFFFD" stop-opacity="0.01022" />
+<stop offset="0.80" stop-color="#FFFFFD" stop-opacity="0.00550" />
+<stop offset="0.85" stop-color="#FFFFFD" stop-opacity="0.00284" />
+<stop offset="0.90" stop-color="#FFFFFD" stop-opacity="0.00141" />
+<stop offset="0.95" stop-color="#FFFFFD" stop-opacity="0.00067" />
+<stop offset="1.00" stop-color="#FFFFFD" stop-opacity="0.00000" />
+</radialGradient>
+<radialGradient id="tx-front-g18" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="1" gradientTransform="matrix(804.65013 -446.02485 44.60249 80.46501 368.00000 555.00000)">
+<stop offset="0.00" stop-color="#BAC5F6" stop-opacity="0.91000" />
+<stop offset="0.05" stop-color="#BAC5F6" stop-opacity="0.89198" />
+<stop offset="0.10" stop-color="#BAC5F6" stop-opacity="0.84004" />
+<stop offset="0.15" stop-color="#BAC5F6" stop-opacity="0.76010" />
+<stop offset="0.20" stop-color="#BAC5F6" stop-opacity="0.66080" />
+<stop offset="0.25" stop-color="#BAC5F6" stop-opacity="0.55194" />
+<stop offset="0.30" stop-color="#BAC5F6" stop-opacity="0.44294" />
+<stop offset="0.35" stop-color="#BAC5F6" stop-opacity="0.34153" />
+<stop offset="0.40" stop-color="#BAC5F6" stop-opacity="0.25301" />
+<stop offset="0.45" stop-color="#BAC5F6" stop-opacity="0.18009" />
+<stop offset="0.50" stop-color="#BAC5F6" stop-opacity="0.12316" />
+<stop offset="0.55" stop-color="#BAC5F6" stop-opacity="0.08092" />
+<stop offset="0.60" stop-color="#BAC5F6" stop-opacity="0.05108" />
+<stop offset="0.65" stop-color="#BAC5F6" stop-opacity="0.03098" />
+<stop offset="0.70" stop-color="#BAC5F6" stop-opacity="0.01806" />
+<stop offset="0.75" stop-color="#BAC5F6" stop-opacity="0.01011" />
+<stop offset="0.80" stop-color="#BAC5F6" stop-opacity="0.00544" />
+<stop offset="0.85" stop-color="#BAC5F6" stop-opacity="0.00281" />
+<stop offset="0.90" stop-color="#BAC5F6" stop-opacity="0.00140" />
+<stop offset="0.95" stop-color="#BAC5F6" stop-opacity="0.00067" />
+<stop offset="1.00" stop-color="#BAC5F6" stop-opacity="0.00000" />
+</radialGradient>
+<linearGradient id="tx-back-color" gradientUnits="userSpaceOnUse" x1="469" y1="250" x2="579" y2="215">
+      <stop stop-color="#61AEF9" />
+      <stop offset=".39" stop-color="#95D1FC" />
+      <stop offset=".76" stop-color="#EAF7FF" />
+      <stop offset="1" stop-color="#FFFFFF" />
+    </linearGradient>
+    <linearGradient id="tx-back-shade" gradientUnits="userSpaceOnUse" x1="460" y1="185" x2="553" y2="332">
+      <stop stop-color="#5AA5ED" stop-opacity=".16" />
+      <stop offset=".55" stop-color="#61B1F5" stop-opacity="0" />
+      <stop offset="1" stop-color="#B1DBFF" stop-opacity=".12" />
+    </linearGradient>
+
+    
+    </defs><g id="tongxue-ribbon" transform="translate(45 98) scale(1.16)" stroke-linecap="round" stroke-linejoin="round">
+<g id="tx-loop" aria-label="loop ribbon face">
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="#FFFFFF" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g0)" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g1)" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g2)" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g3)" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g4)" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g5)" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g6)" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g7)" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g8)" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g9)" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g10)" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g11)" />
+<use href="#tx-loop-surface" xlink:href="#tx-loop-surface" fill="url(#tx-loop-g12)" />
+</g>
+<g id="tx-back" aria-label="back ribbon face">
+<use href="#tx-back-surface" xlink:href="#tx-back-surface" fill="url(#tx-back-color)" /><use href="#tx-back-surface" xlink:href="#tx-back-surface" fill="url(#tx-back-shade)" /></g>
+<g id="tx-arch" aria-label="arch ribbon face">
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="#0000D6" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g0)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g1)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g2)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g3)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g4)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g5)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g6)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g7)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g8)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g9)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g10)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g11)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g12)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g13)" />
+<use href="#tx-arch-surface" xlink:href="#tx-arch-surface" fill="url(#tx-arch-g14)" />
+</g>
+<g id="tx-front" aria-label="front ribbon face">
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="#FFFFFF" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g0)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g1)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g2)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g3)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g4)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g5)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g6)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g7)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g8)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g9)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g10)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g11)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g12)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g13)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g14)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g15)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g16)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g17)" />
+<use href="#tx-front-surface" xlink:href="#tx-front-surface" fill="url(#tx-front-g18)" />
+</g>
+<g id="tx-rim-highlights" stroke-width="1.25">
+<path d="M 63 468 C 76 428 91 398 117 347 C 155 271 197 205 237 137 C 260 98 276 69 310 51 C 341 35 377 35 409 44 C 462 57 492 96 522 154" stroke="#D8F5FF" stroke-opacity=".42" />
+<path d="M 327 344 C 351 276 416 191 466 158 C 489 142 508 133 522 154" stroke="#F1FCFF" stroke-opacity=".72" />
+<path d="M 522 154 C 550 199 598 286 627 347" stroke="#FFFFFF" stroke-opacity=".55" />
+<path d="M 77 475 C 143 411 239 367 329 343 C 416 319 498 317 565 328 C 647 341 709 378 741 432 C 754 454 760 484 762 514" stroke="#E3F7FF" stroke-opacity=".63" />
+<path d="M 55 593 C 73 627 109 643 157 640 C 207 637 262 602 344 553 C 418 508 481 475 555 446 C 608 425 663 405 715 427 C 742 439 759 468 762 514" stroke="#F1F3FF" stroke-opacity=".78" />
+<path d="M 55 593 C 33 555 41 516 63 468 C 61 480 65 485 77 475" stroke="#E4EDFF" stroke-opacity=".45" />
+<path d="M 393 520 C 443 582 512 641 579 663 C 637 682 682 670 716 638 C 747 608 765 558 762 514" stroke="#D5CCFF" stroke-opacity=".65" />
+<path d="M 405 513 C 504 579 609 601 631 548 C 646 516 614 465 596 430" stroke="#92B4FF" stroke-opacity=".25" />
+</g></g></svg>

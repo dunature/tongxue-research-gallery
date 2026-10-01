@@ -1,0 +1,7 @@
+evidence/*.png
+evidence/DESIGN-download.md
+.DS_Store
+
+# Local source-path records remain available for provenance checks.
+evidence/generation-*.json
+evidence/revision-*.json

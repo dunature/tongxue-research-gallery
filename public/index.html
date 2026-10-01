@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>仝学 · 科研为先｜20 套融合设计</title>
+<meta name="description" content="以清晰侧栏、编号章序和科研方法为主的二十套仝学官网视觉方案，含八十张原图、舒缓动效与完整中文设计解析。">
+<link rel="stylesheet" href="gallery.css?v=1">
+</head>
+<body>
+<header><a class="brand" href="#01/home"><img src="brand-icon.svg" alt=""><span><strong>仝学 TONGXUE</strong><small>科研为先 · 融合视觉研究</small></span></a><div class="edition">侧栏导航 × 编号章序 × 七刊陈列 · 20 套新方案</div></header>
+<div class="layout">
+<aside><p class="eyebrow">选择一种科研内容的组织方式</p><nav class="choices" aria-label="全站视觉风格"></nav><p class="side-note">让内容先被看见，<br>让研究方法更清楚。<br><a href="https://tongxue-design-gallery.onrender.com" target="_blank" rel="noopener">查看最初十套方案 ↗</a><br><a href="https://tongxue-paper-gallery.onrender.com" target="_blank" rel="noopener">查看上一轮融合方案 ↗</a></p></aside>
+<main>
+<div class="topline"><div><div class="counter" id="counter"></div><h1 id="title"></h1></div><div class="actions"><button class="control" id="motionButton" aria-pressed="true">暂停光效</button><button class="control" id="overviewButton">整套对比</button><a class="control" id="original" target="_blank" rel="noopener">查看原图 ↗</a><a class="control primary" id="download" download>下载 PNG ↓</a></div></div>
+<div class="pagebar"><div class="page-tabs" aria-label="页面类型"></div><span id="pageLabel"></span></div>
+<section class="focus" aria-label="当前方向动效预览">
+<div class="viewbar" role="group" aria-label="图片显示大小"><button class="control" id="nativeSize" aria-pressed="true">原像素 · 最清晰</button><button class="control" id="fitSize" aria-pressed="false">铺满区域</button><span class="pixel-info" id="pixelInfo" aria-live="polite"></span></div>
+<div class="stage" data-state="loading" aria-busy="true"><img class="concept" id="concept" alt="" fetchpriority="high" decoding="async"><div class="fx" aria-hidden="true"></div><div class="load-status"><span id="loadMessage" role="status" aria-live="polite"></span><button class="control" id="retryImage" hidden>重新加载</button></div></div>
+<div class="below"><div><div class="motion"><span></span><b id="motionName"></b></div><p class="note">静态设计图 + 叠加氛围动效。图中的导航、咨询及业务按钮仅作视觉展示；本图库的切换与下载可以操作。原像素模式避免放大原图，图表仅为版式示意。</p></div><div class="stepper"><button class="control" id="previous" aria-label="上一套风格">←</button><button class="control" id="next" aria-label="下一套风格">→</button></div></div>
+</section>
+<section class="overview" hidden aria-label="同一风格四页对比"></section>
+<section class="design-notes" id="designNotes" aria-labelledby="designNotesTitle"><div class="design-heading"><p class="eyebrow">DESIGN NOTES · 中文设计解析</p><h2 id="designNotesTitle">视觉风格解析 · <span id="designStyle"></span></h2><p id="designForm"></p></div><div class="design-body" id="designBody"></div><div class="design-links"><a class="control" href="DESIGN.md" download="仝学-科研为先-DESIGN.md">下载完整中文 DESIGN.md ↓</a><span>理念、融合来源、差异、视觉规则与实现取舍 · 随当前方案同步</span></div></section>
+<footer>源自《仝学官网需求备忘录》v1.0 · 20 套方案 × 4 类页面 · 原始 PNG · 方向键切换 · 支持减少动态偏好</footer>
+</main></div>
+<script src="gallery.js?v=1"></script>
+</body></html>
